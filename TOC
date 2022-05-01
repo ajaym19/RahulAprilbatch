@@ -15,7 +15,7 @@ naming conventions
 Looping 
 for, if, switch, do while
 
-----Completed
+
 next settion
 OOPS
 Inheritance
@@ -31,6 +31,8 @@ Encapsulation
 Strings
 String buffer and builder
 string methods
+
+----Completed
 
 Array
 

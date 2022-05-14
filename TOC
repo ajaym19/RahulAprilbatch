@@ -42,10 +42,11 @@ Linked List
 Hashset
 hasmap
 
-FilaHandling
+-----------------
+FileHandling
 Reading
 Writing
-Apache POI to reac excel file
+Apache POI to read excel file
 
 Exception Handling
 try catch block finally
